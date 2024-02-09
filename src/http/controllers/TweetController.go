@@ -5,7 +5,6 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	// _ entities "api/src/http/entities"
 	types "api/src/types/public"
 )
 
